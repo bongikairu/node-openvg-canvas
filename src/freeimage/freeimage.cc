@@ -6,7 +6,7 @@
 #include <node_buffer.h>
 #include "../v8_helpers.h"
 
-#include <FreeImage.h>
+//#include <FreeImage.h>
 
 #include "freeimage.h"
 #include "image.h"
